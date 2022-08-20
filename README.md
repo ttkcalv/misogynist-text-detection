@@ -3,7 +3,7 @@ Identifying misogynistic and non-misogynistic text
 
 ### Project Scenario
 Misogyny means "dislike of, contempt for, or ingrained prejudice against women.", i.e. any definitions that disparage women.
-In this project, we will use the annotated dataset to build a machine learning model to classify text for misogyny.
+In this project, we will use an annotated dataset to build a machine learning model to classify text for misogyny.
 
 ### What we'll be doing:
 1. Download Urban Dictionary text corpus and clean the data up (Part I)
